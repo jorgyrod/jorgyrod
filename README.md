@@ -47,11 +47,20 @@
  ___
 <h3 align="left">💻 Proyectos: </h3>
 <h4>🏳️ Countries: </h4>
-<p align="left"> Es una pagina web SPA desarrollada con React y Redux del lado del front y NodeJS, Express, Sequalize y PostgreSQL del lado del back, abstraemos los datos de la api original y añadimos algunas funcionalidades como lo fue Agregar actividades a los paises, la paginacion y más....</p>
+<p align="left"> Es una pagina web SPA desarrollada con React y Redux del lado del front y NodeJS, Express, Sequalize y PostgreSQL del lado del back, abstraemos los datos de la api original y añadimos algunas funcionalidades como lo fue Agregar actividades a los paises, Filtración y Busqueda, Ordenamiento, Paginación y más....</p>
 
+<img src="https://github.com/jorgyrod/jorgyrod/blob/main/imagen.JPG" width="900" height="400" align="center" />
 
 <h4>🛍️ La Generica : </h4>
-<p align="left"> Es una pagina web SPA desarrollada con AngularJS del lado del front y con Java - SpringBoot del lado del Back, como bases de datos se utilizo MongoDB, este es un proyecto de 0, en el que se analizo y creo el modelo de la base de datos y a su vez se crearon las ApiRest para que pudieran ser consumidas por el front, del lado del front se agrego autenticacion, registro, consultas, eliminacion, y tambien se creo un metodo de facturacion en el que se podian seleccionar varios productos con cantidades y asi generar una factura. Al finalizar tambien se incluyo el consolidado de las ventas</p>
+<p align="left"> Es una pagina web SPA desarrollada con AngularJS del lado del front y con Java - SpringBoot del lado del Back, como bases de datos se utilizo MongoDB, este es un proyecto de 0, en el que se analizo y creo el modelo de la base de datos y a su vez se crearon las ApiRest para que pudieran ser consumidas por el front, del lado del front se agregan los productos de manera que el cliente pueda subir un archivo .csv ademas se agrego autenticacion, registro, consultas, eliminacion, y tambien se creo un metodo de facturacion en el que se podian seleccionar varios productos con cantidades y asi generar una factura. Al finalizar tambien se incluyo el consolidado de las ventas</p>
+
+<table>
+<tr>
+  <td>
+    
+  </td>
+  <tr>
+</table>
  ___
 <h3 align="left">Contacta conmigo:</h3><p align="left"><a href="https://linkedin.com/in/jorgyrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgyrodriguez" height="30" width="40"/></a>
 <p align="left">jorgsrodriguez@gmail.com</p>
