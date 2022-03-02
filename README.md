@@ -69,7 +69,10 @@
       <td><img src="https://github.com/jorgyrod/jorgyrod/blob/main/ventas.JPG" width="600" height="250" align="center" /></td>
   </tr>
 </table>
+
  ___
-<h3 align="left">Contacta conmigo:</h3><p align="left"><a href="https://linkedin.com/in/jorgyrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgyrodriguez" height="30" width="40"/></a>
+<h3 align="left">Contacta conmigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jorgyrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgyrodriguez" height="30" width="40"/></a>
 <p align="left">jorgsrodriguez@gmail.com</p>
 </p>
