@@ -1,5 +1,6 @@
 <h2 align="center"> Hola 👋, Soy Jorge!</h2>
-<h3 align="center">Un apasionado desarrollador de Colombia!</h3>
+<h3 align="center">"Controlar la complejidad es la esencia de la programación"
+-- Brian Kernigan</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="1200" height="300" />
 
