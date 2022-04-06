@@ -46,7 +46,7 @@
 
  ___
 <h3 align="left">💻 Proyectos: </h3>
-<h4>🏳️ SantArt: </h4>
+<h4>🎨 SantArt: </h4>
 <p align="left"> Es un E-commerce, desarrollador con tecnologias como React, Redux, Express, Node, PostgreSQL, Firebase, Pasarela de pago mercado pago y mas...,
 Este proyecto contiente tanto pagina web como una app desarrollada en React Native, tiene una alta experiencia de usuario, ademas de filtrados dinamicos, busqueda y autocompletado, paginacion, agregar a favoritos, agregar al carrito, y los respectivos paneles administrativos tanto para el usuario como para el administrador. 
 </p>
@@ -71,6 +71,9 @@ Este proyecto contiente tanto pagina web como una app desarrollada en React Nati
   </tr>
 </table>
 
+<h4>🌎 Countries: </h4>
+<p align="left"> Es una pagina web SPA desarrollada con React y Redux del lado del front y NodeJS, Express, Sequalize y PostgreSQL del lado del back, abstraemos los datos de la api original y añadimos algunas funcionalidades como lo fue Agregar actividades a los paises, Filtración y Busqueda, Ordenamiento, Paginación y más....</p>
+<img src="https://github.com/jorgyrod/jorgyrod/blob/main/imagen.JPG" width="900" height="400" align="center" />
  ___
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
