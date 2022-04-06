@@ -50,7 +50,7 @@
 <p align="left"> Es un E-commerce, desarrollador con tecnologias como React, Redux, Express, Node, PostgreSQL, Firebase, Pasarela de pago mercado pago y mas...,
 Este proyecto contiente tanto pagina web como una app desarrollada en React Native, tiene una alta experiencia de usuario, ademas de filtrados dinamicos, busqueda y autocompletado, paginacion, agregar a favoritos, agregar al carrito, y los respectivos paneles administrativos tanto para el usuario como para el administrador. 
 </p>
-<img src="https://github.com/jorgyrod/PG-Henry/tree/main/Frontend/art-gallery/src/images/santartHome.png" width="900" height="400" align="center" />
+<img src="https://github.com/jorgyrod/jorgyrod/blob/main/santartHome.png" width="900" height="400" align="center" />
 
 <h4>🛍️ La Generica : </h4>
 <p align="left"> Es una pagina web SPA desarrollada con AngularJS del lado del front y con Java - SpringBoot del lado del Back, como bases de datos se utilizo MongoDB, este es un proyecto de 0, en el que se analizo y creo el modelo de la base de datos y a su vez se crearon las ApiRest para que pudieran ser consumidas por el front, del lado del front se agregan los productos de manera que el cliente pueda subir un archivo .csv ademas se agrego autenticacion, registro, consultas, eliminacion, y tambien se creo un metodo de facturacion en el que se podian seleccionar varios productos con cantidades y asi generar una factura. Al finalizar tambien se incluyo el consolidado de las ventas</p>
